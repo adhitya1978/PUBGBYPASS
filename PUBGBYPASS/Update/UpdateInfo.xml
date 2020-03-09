@@ -1,0 +1,15 @@
+<UpdateChecker>
+<release type="Stable">
+<name>BingoFB</name>
+<major>1</major>
+<minor>0</minor>
+<revision>0</revision>
+<build>3</build>
+<info>BingoFB 1.1 released.</info>
+<infoUri>
+http://bingo-fb.com/users/?utm_source=EasyBCD&utm_medium=software&utm_campaign=Auto%20Upgrade
+</infoUri>
+<downloadUri/>
+<date>202033020200330</date>
+</release>
+</UpdateChecker>
